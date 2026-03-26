@@ -1,7 +1,3 @@
-Berikut versi yang lebih sesuai sama gaya lu: direct, teknis secukupnya, tanpa basa-basi.
-
----
-
 # Chord for Dummies
 
 Proyek computer vision untuk menerjemahkan gesture tangan menjadi chord secara real-time menggunakan MediaPipe.
