@@ -1,0 +1,6 @@
+# VSCode settings
+.vscode/
+
+# Model files
+*.task
+*.tflite
